@@ -1,0 +1,2 @@
+(this["webpackJsonpcdg-react"]=this["webpackJsonpcdg-react"]||[]).push([[0],{4:function(e,t,c){"use strict";c.r(t);var n=c(3),r=c.n(n),o=(c(0),c(2)),s=document.getElementById("root"),a=function(e){return Object(o.jsx)("h1",{children:"CoderDojo Gotanda"})};r.a.render(Object(o.jsx)(a,{}),s)}},[[4,1,2]]]);
+//# sourceMappingURL=main.b451e109.chunk.js.map
